@@ -1,3 +1,4 @@
 [submodule "discovery"]
 	path = discovery
-	url = git@github.com:rust-embedded/discovery.git
+	url = git@github.com:tallamjr/discovery.git
+	branch = medev
